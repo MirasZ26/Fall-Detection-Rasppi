@@ -1,4 +1,5 @@
-Abstract
+Abstract |
+
 The main goal of this project is to design a device that would assist in cases of emergency falls of elderly people, people with risks of fainting and having seizures of different kinds. 
 The main hypothesis is that it is achievable to develop an affordable fall detection device that would share individually tailored first aid instructions for many medical conditions to the people nearby and alert patients’ close people and emergency services about the incident via phone and email. The device is also expected to distinguish between different kinds of falls (mild and severe), connect to the Internet of Things, AND have access to GPS services in order to send fall detection alerts to people nearby. 
 The work analyzes and evaluates popular fall detection gadgets and identifies their strengths and weaknesses. Also, the study identifies the most effective fall detection strategy for a wearable device and justifies the choice of several helpful biometrics that could be added. The study also includes a detailed explanation of the main components of the device work.
